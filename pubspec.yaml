@@ -20,6 +20,7 @@ dependencies:
   geolocator: any
   share: any
   image_picker: any
+  barcode_scan: any
 
 dev_dependencies:
   flutter_test:
