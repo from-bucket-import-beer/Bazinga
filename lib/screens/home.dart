@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 height: 32,
               ),
               Text(
-                "Working on it!",
+                "Have to display a payments dashboard!",
                 style: GoogleFonts.raleway(
                   fontSize: 20
                 ),
